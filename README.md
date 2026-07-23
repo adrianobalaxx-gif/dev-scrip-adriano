@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Dev Script Adriano Banner" width="100%">
+</p>
 # 👋 Olá, eu sou o Dev Script Adriano
 
 ## 💻 Desenvolvedor Full Stack
