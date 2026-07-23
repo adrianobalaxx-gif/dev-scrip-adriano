@@ -1,106 +1,109 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Dev Script Adriano Banner"/>
+  <img src="./banner.png" width="100%" alt="Dev Adriano Banner">
 </p>
 
-<h1 align="center">👋 Olá, eu sou o Dev Script Adriano</h1>
+<h1 align="center">Olá, eu sou o Dev Adriano 👋</h1>
 
-<h3 align="center">💻 Desenvolvedor Full Stack • Mobile • APIs • Banco de Dados</h3>
+<h3 align="center">
+Desenvolvedor Full Stack • Mobile • APIs • Banco de Dados
+</h3>
 
 <p align="center">
-Desenvolvedor Full Stack apaixonado por tecnologia, focado na criação de aplicações modernas, APIs robustas, sistemas escaláveis e soluções de alta performance.
+Apaixonado por transformar ideias em aplicações modernas, escaláveis e de alta qualidade.
 </p>
 
 ---
 
 # 🚀 Tecnologias
 
+<div align="center">
+
 ## 🌐 Front-end
 
-- 🟠 **HTML5**
-- 🔵 **CSS3**
-- 🟡 **JavaScript**
-- 🔷 **TypeScript**
-- ⚛️ **React**
-- 💨 **Tailwind CSS**
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" />
 
----
+<br><br>
 
 ## ⚙️ Back-end
 
-- 🟢 **Node.js**
-- 🚀 **Express**
-- 🔗 **APIs REST**
+<img src="https://skillicons.dev/icons?i=nodejs,express,npm" />
 
----
+<br><br>
 
 ## 📱 Mobile
 
-- ☕ **Java**
-- 🟣 **Kotlin**
-- 🤖 **Android**
+<img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio" />
 
----
+<br><br>
 
 ## 🗄️ Banco de Dados
 
-- 🐘 **PostgreSQL**
-- 🍃 **MongoDB**
-- 🐬 **MySQL**
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 
----
+<br><br>
 
 ## 🛠️ Ferramentas
 
-- 🔀 **Git**
-- 🐙 **GitHub**
-- 🐳 **Docker**
-- 🐧 **Linux**
-- 💙 **VS Code**
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" />
+
+</div>
 
 ---
 
-# 🎯 Especialidades
+# 💼 Especialidades
 
-✅ Desenvolvimento Web
+💻 Desenvolvimento Web
 
-✅ Desenvolvimento Mobile
+📱 Desenvolvimento Android
 
-✅ APIs REST
+⚙️ APIs REST
 
-✅ Banco de Dados
+🗄️ Banco de Dados
 
-✅ Sistemas Escaláveis
+🎨 Interfaces Responsivas
 
-✅ Interfaces Responsivas
+🚀 Sistemas Escaláveis
 
----
-
-# 💡 Objetivo
-
-Desenvolver aplicações modernas utilizando as melhores tecnologias do mercado, sempre buscando qualidade, desempenho, organização e boas práticas de desenvolvimento.
+☁️ Soluções Personalizadas
 
 ---
 
 # 📚 Atualmente estudando
 
-- 🚀 Arquitetura de Software
-- ☁️ Cloud Computing
-- ⚙️ DevOps
-- 🔒 Segurança de Aplicações
-- 📱 Desenvolvimento Mobile
+- Arquitetura de Software
+- Microsserviços
+- Cloud Computing
+- DevOps
+- Segurança de Aplicações
 
 ---
 
-# 📫 Contato
+# 📈 GitHub
 
-- 🐙 GitHub: https://github.com/adrianobalaxx-gif
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianobalaxx-gif&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
+
+# 🌎 Contato
 
 <p align="center">
 
-### Obrigado pela visita! 🚀
+<a href="https://github.com/adrianobalaxx-gif">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
 
-**Se gostou dos meus projetos, deixe uma ⭐ nos repositórios!**
+</p>
 
+---
+
+<h2 align="center">
+
+Obrigado pela visita! ⭐
+
+</h2>
+
+<p align="center">
+Sempre compartilhando projetos e aprendendo novas tecnologias.
 </p>
