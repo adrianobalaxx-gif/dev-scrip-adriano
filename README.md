@@ -4,7 +4,9 @@
 # 👋 Olá, eu sou o Dev Script Adriano
 
 ## 💻 Desenvolvedor Full Stack
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,java,kotlin,postgres,mongodb,mysql,git,github,docker,linux,vscode" />
+</p>
 Sou desenvolvedor Full Stack apaixonado por tecnologia e pela criação de aplicações modernas, escaláveis e de alta performance.
 
 ### 🚀 Tecnologias
